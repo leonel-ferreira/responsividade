@@ -16,3 +16,13 @@ h1 {
 p {
 	padding: 10px;
 }
+@media only screen and (max-width: 800px) {
+	.cidade {
+		width: 50%;
+	}
+}
+@media only screen and (max-width: 500px) {
+	.cidade {
+		width: 100%;
+	}
+}
