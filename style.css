@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+}
+.topo {
+	height: 100px;
+	background-color: orange;
+}
+h1 {
+	text-align: center;
+	line-height: 100px;
+}
+.cidade {
+	width: 25%;
+	float: left;
+}
+p {
+	padding: 10px;
+}
